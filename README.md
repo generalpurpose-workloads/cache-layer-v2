@@ -1,2 +1,7 @@
 # cache-layer-v2
-Internal data processing pipeline
+
+Configuration cache for microservices architecture.
+
+## Usage
+
+Managed by the deployment automation system.
